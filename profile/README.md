@@ -1,4 +1,5 @@
-![header]()
+![header](<img width="6400" height="1600" alt="image" src="https://github.com/user-attachments/assets/6083e55e-0b95-45ee-89af-a0d891ea3356" />
+)
 
 <br><br>
 
@@ -46,7 +47,8 @@
 
 | 주최 | 주관 |
 | :---: | :---: | 
-| <img width="100" alt="멋쟁이사자처럼 대학" src="https://github.com/user-attachments/assets/5918fdd5-2b3c-4e98-8220-aa835d4fa57c"> | |
+| <img width="100" alt="멋쟁이사자처럼 대학" src="https://github.com/user-attachments/assets/5918fdd5-2b3c-4e98-8220-aa835d4fa57c"> |<img width="2000" height="2000" alt="image" src="https://github.com/user-attachments/assets/5f68112a-ce1e-43be-8ced-8fd0be88ce4a" />
+ |
 | 멋쟁이사자처럼 대학 | 여기톤 운영위원회 | 
 
 <br><br>
