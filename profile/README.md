@@ -17,7 +17,7 @@
 
 <br>
 
-2019년부터 지속되어 온 기존 '여기톤'에서 한 단계 더 나아가, 확장된 여성의 시선과 도전적인 개발 문화를 만들어가기 위해 2025년부터 **HER+ETHON**으로 새롭게 도약합니다.
+2019년부터 이어져 온 여기톤은, 2026년  **‘다시 시작(RE)’ **이라는 키워드 아래, 경제적•정서적 자립, 창업 등 다양한 출발선에 선 여성들의 경험과 가능성을 연결합니다.
 
 <br>
 
@@ -31,15 +31,14 @@
 ## **후원 · 협찬**
 
 ### 후원사
-| 멋쟁이사자처럼 대학 |
-| IT여성기업인협회 |
-| 동덕여자대학교 창업지원단 |
+| 멋쟁이사자처럼 대학 | IT여성기업인협회 | 동덕여자대학교 창업지원단 |
+| :---: | :---: | :---: |
+| <img width="100" alt="멋쟁이사자처럼 대학" src="https://github.com/user-attachments/assets/7727817a-adbb-4869-b5eb-e20666e4b1a6" /> | <img width="100" alt="IT여성기업인협회" src="https://github.com/user-attachments/assets/ae1b9016-4f5d-48b1-8e0d-5c5a667ce28e" /> | <img width="100" alt="동덕여자대학교 창업지원단" src="https://github.com/user-attachments/assets/4019b3ce-8194-4fdf-b00c-09ccb43cd7f9" /> |
 
 ### 협찬사
-| 이지스퍼블리싱 |
-| 한빛미디어 |
-| 링티 |
-| 메카솔루션 |
+| 이지스퍼블리싱 | 한빛미디어 | 링티 | 메카솔루션 |
+| :---: | :---: | :---: | :---: |
+| <img width="100" alt="이지스퍼블리싱" src="https://github.com/user-attachments/assets/bce21184-6356-46b8-a229-2013f4ba54f8" /> | <img width="100"  alt="한빛미디어" src="https://github.com/user-attachments/assets/4e763a70-5afb-4eba-8e27-ff8a58807def" /> | <img width="100"  alt="링티" src="https://github.com/user-attachments/assets/9a482172-5ded-40ce-88a1-f73de0deb5da" /> | <img width="100" alt="메카솔루션" src="https://github.com/user-attachments/assets/34c3a0c5-ebe9-4e24-ae26-19244faf3dd1" /> |
 <br>
 
 ## **주최 · 주관**
