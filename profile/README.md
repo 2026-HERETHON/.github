@@ -31,9 +31,9 @@
 ## **후원 · 협찬**
 
 ### 후원사
-| 멋쟁이사자처럼 대학 | IT여성기업인협회 | 동덕여자대학교 창업지원단 |
-| :---: | :---: | :---: |
-| <img width="100" alt="멋쟁이사자처럼 대학" src="https://github.com/user-attachments/assets/7727817a-adbb-4869-b5eb-e20666e4b1a6" /> | <img width="100" alt="IT여성기업인협회" src="https://github.com/user-attachments/assets/ae1b9016-4f5d-48b1-8e0d-5c5a667ce28e" /> | <img width="100" alt="동덕여자대학교 창업지원단" src="https://github.com/user-attachments/assets/4019b3ce-8194-4fdf-b00c-09ccb43cd7f9" /> |
+| 멋쟁이사자처럼 대학 | IT여성기업인협회 | 동덕여자대학교 창업지원단 | 이화여자대학교 창업지원단 |
+| :---: | :---: | :---: | :---: |
+| <img width="100" alt="멋쟁이사자처럼 대학" src="https://github.com/user-attachments/assets/7727817a-adbb-4869-b5eb-e20666e4b1a6" /> | <img width="100" alt="IT여성기업인협회" src="https://github.com/user-attachments/assets/ae1b9016-4f5d-48b1-8e0d-5c5a667ce28e" /> | <img width="100" alt="동덕여자대학교 창업지원단" src="https://github.com/user-attachments/assets/4019b3ce-8194-4fdf-b00c-09ccb43cd7f9" /> | <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/6e681b14-1f8d-4d54-b07b-275be67c95d3" /> | 
 
 ### 협찬사
 | 이지스퍼블리싱 | 한빛미디어 | 링티 | 메카솔루션 |
